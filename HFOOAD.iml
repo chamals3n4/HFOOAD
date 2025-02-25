@@ -9,6 +9,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Chapter 01/Improvement v1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Chapter 02" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Chapter 03" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 04" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Chapter 05" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="17" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
